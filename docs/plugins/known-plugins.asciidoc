@@ -29,6 +29,7 @@ This list of plugins is not guaranteed to work on your version of Kibana. Instea
 === Visualizations
 * https://github.com/virusu/3D_kibana_charts_vis[3D Charts] (virusu)
 * https://github.com/JuanCarniglia/area3d_vis[3D Graph] (JuanCarniglia)
+* https://github.com/Camichan/kbn_aframe[VR Graph Visualization] (Camichan)
 * https://github.com/TrumanDu/bmap[Bmap](TrumanDu) - integrated echarts for map visualization
 * https://github.com/mstoyano/kbn_c3js_vis[C3JS Visualizations] (mstoyano)
 * https://github.com/aaronoah/kibana_calendar_vis[Calendar Visualization] (aaronoah)
